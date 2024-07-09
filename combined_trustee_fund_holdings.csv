@@ -1,487 +1,487 @@
-Trustee,Parameter,Dollar Range
+Trustee       ,Parameter          ,Dollar Range
 "Edward C.
-Johnson 3d","Dividend
-Growth","over
-$100,000"
+Johnson 3d"   ,"Dividend
+               Growth"            ,"over
+                                   $100,000"
 "Stephen P.
-Jonas","Dividend
-Growth","over
-$100,000"
+Jonas"        ,"Dividend
+               Growth"            ,"over
+                                   $100,000"
 "Robert L.
-Reynolds","Dividend
-Growth","over
-$100,000"
+Reynolds"     ,"Dividend
+               Growth"            ,"over
+                                   $100,000"
 "Edward C.
-Johnson 3d","Growth &
-Income","over
-$100,000"
+Johnson 3d"   ,"Growth &
+               Income"            ,"over
+                                   $100,000"
 "Stephen P.
-Jonas","Growth &
-Income","over
-$100,000"
+Jonas"        ,"Growth &
+               Income"            ,"over
+                                   $100,000"
 "Robert L.
-Reynolds","Growth &
-Income","over
-$100,000"
+Reynolds"     ,"Growth &
+               Income"            ,"over
+                                   $100,000"
 "Edward C.
-Johnson 3d","Leveraged Company
-Stock",none
+Johnson 3d"   ,"Leveraged Company
+               Stock"             ,none
 "Stephen P.
-Jonas","Leveraged Company
-Stock",none
+Jonas"        ,"Leveraged Company
+               Stock"             ,none
 "Robert L.
-Reynolds","Leveraged Company
-Stock",none
+Reynolds"     ,"Leveraged Company
+               Stock"             ,none
 "Edward C.
-Johnson 3d","Low-Priced
-Stock","over
-$100,000"
+Johnson 3d"   ,"Low-Priced
+               Stock"             ,"over
+                                   $100,000"
 "Stephen P.
-Jonas","Low-Priced
-Stock","over
-$100,000"
+Jonas"        ,"Low-Priced
+               Stock"             ,"over
+                                   $100,000"
 "Robert L.
-Reynolds","Low-Priced
-Stock","over
-$100,000"
+Reynolds"     ,"Low-Priced
+               Stock"             ,"over
+                                   $100,000"
 "Edward C.
-Johnson 3d",OTC,none
+Johnson 3d"   ,OTC                ,none
 "Stephen P.
-Jonas",OTC,none
+Jonas"        ,OTC                ,none
 "Robert L.
-Reynolds",OTC,none
+Reynolds"     ,OTC                ,none
 "Edward C.
-Johnson 3d","Real Estate
-Income",none
+Johnson 3d"   ,"Real Estate
+               Income"            ,none
 "Stephen P.
-Jonas","Real Estate
-Income",none
+Jonas"        ,"Real Estate
+               Income"            ,none
 "Robert L.
-Reynolds","Real Estate
-Income",none
+Reynolds"     ,"Real Estate
+               Income"            ,none
 "Edward C.
-Johnson 3d","Fidelity Value
-Discovery Fund",none
+Johnson 3d"   ,"Fidelity Value
+               Discovery Fund"    ,none
 "Stephen P.
-Jonas","Fidelity Value
-Discovery Fund",none
+Jonas"        ,"Fidelity Value
+               Discovery Fund"    ,none
 "Robert L.
-Reynolds","Fidelity Value
-Discovery Fund",none
+Reynolds"     ,"Fidelity Value
+               Discovery Fund"    ,none
 "Edward C.
-Johnson 3d","AGGREGATE
-DOLLAR RANGE 
-OF FUND SHARES IN
-ALL FUNDS OVERSEEN
-WITHIN FUND
-FAMILY","over
-$100,000"
+Johnson 3d"   ,"AGGREGATE
+               DOLLAR RANGE
+               OF FUND SHARES IN
+               ALL FUNDS OVERSEEN
+               WITHIN FUND
+               FAMILY"            ,"over
+                                   $100,000"
 "Stephen P.
-Jonas","AGGREGATE
-DOLLAR RANGE 
-OF FUND SHARES IN
-ALL FUNDS OVERSEEN
-WITHIN FUND
-FAMILY","over
-$100,000"
+Jonas"        ,"AGGREGATE
+               DOLLAR RANGE
+               OF FUND SHARES IN
+               ALL FUNDS OVERSEEN
+               WITHIN FUND
+               FAMILY"            ,"over
+                                   $100,000"
 "Robert L.
-Reynolds","AGGREGATE
-DOLLAR RANGE 
-OF FUND SHARES IN
-ALL FUNDS OVERSEEN
-WITHIN FUND
-FAMILY","over
-$100,000"
+Reynolds"     ,"AGGREGATE
+               DOLLAR RANGE
+               OF FUND SHARES IN
+               ALL FUNDS OVERSEEN
+               WITHIN FUND
+               FAMILY"            ,"over
+                                   $100,000"
 "Dennis
-J. Dirks","Growth &
-Income","$1 -
-$10,000"
+J. Dirks"     ,"Growth &
+               Income"            ,"$1 -
+                                   $10,000"
 "Albert
 R. Gamper,
-Jr.","Growth &
-Income",none
+Jr."          ,"Growth &
+               Income"            ,none
 "Robert
 M.
-Gates","Growth &
-Income","$50,001
-- -
-$100,000"
+Gates"        ,"Growth &
+               Income"            ,"$50,001
+                                   - -
+                                   $100,000"
 "George
 H.
-Heilmeier","Growth &
-Income","$10,001
-- -
-$50,000"
+Heilmeier"    ,"Growth &
+               Income"            ,"$10,001
+                                   - -
+                                   $50,000"
 "Marie L.
-Knowles","Growth &
-Income","$10,001
-- -
-$50,000"
+Knowles"      ,"Growth &
+               Income"            ,"$10,001
+                                   - -
+                                   $50,000"
 "Dennis
-J. Dirks","Dividend
-Growth","$50,001
-- -
-$100,000"
+J. Dirks"     ,"Dividend
+               Growth"            ,"$50,001
+                                   - -
+                                   $100,000"
 "Albert
 R. Gamper,
-Jr.","Dividend
-Growth",none
+Jr."          ,"Dividend
+               Growth"            ,none
 "Robert
 M.
-Gates","Dividend
-Growth","over
-$100,000"
+Gates"        ,"Dividend
+               Growth"            ,"over
+                                   $100,000"
 "George
 H.
-Heilmeier","Dividend
-Growth","$1 -
-$10,000"
+Heilmeier"    ,"Dividend
+               Growth"            ,"$1 -
+                                   $10,000"
 "Marie L.
-Knowles","Dividend
-Growth","$10,001
-- -
-$50,000"
+Knowles"      ,"Dividend
+               Growth"            ,"$10,001
+                                   - -
+                                   $50,000"
 "Dennis
-J. Dirks","Leveraged Company
-Stock","$10,001
-- -
-$50,000"
+J. Dirks"     ,"Leveraged Company
+               Stock"             ,"$10,001
+                                   - -
+                                   $50,000"
 "Albert
 R. Gamper,
-Jr.","Leveraged Company
-Stock",none
+Jr."          ,"Leveraged Company
+               Stock"             ,none
 "Robert
 M.
-Gates","Leveraged Company
-Stock",none
+Gates"        ,"Leveraged Company
+               Stock"             ,none
 "George
 H.
-Heilmeier","Leveraged Company
-Stock",none
+Heilmeier"    ,"Leveraged Company
+               Stock"             ,none
 "Marie L.
-Knowles","Leveraged Company
-Stock",none
+Knowles"      ,"Leveraged Company
+               Stock"             ,none
 "Dennis
-J. Dirks","Low-Priced
-Stock","$1 -
-$10,000"
+J. Dirks"     ,"Low-Priced
+               Stock"             ,"$1 -
+                                   $10,000"
 "Albert
 R. Gamper,
-Jr.","Low-Priced
-Stock",none
+Jr."          ,"Low-Priced
+               Stock"             ,none
 "Robert
 M.
-Gates","Low-Priced
-Stock","$10,001
-- -
-$50,000"
+Gates"        ,"Low-Priced
+               Stock"             ,"$10,001
+                                   - -
+                                   $50,000"
 "George
 H.
-Heilmeier","Low-Priced
-Stock","$10,001
-- -
-$50,000"
+Heilmeier"    ,"Low-Priced
+               Stock"             ,"$10,001
+                                   - -
+                                   $50,000"
 "Marie L.
-Knowles","Low-Priced
-Stock","$10,001
-- -
-$50,000"
+Knowles"      ,"Low-Priced
+               Stock"             ,"$10,001
+                                   - -
+                                   $50,000"
 "Dennis
-J. Dirks",OTC,"$1 -
-$10,000"
+J. Dirks"     ,OTC                ,"$1 -
+                                   $10,000"
 "Albert
 R. Gamper,
-Jr.",OTC,none
+Jr."          ,OTC                ,none
 "Robert
 M.
-Gates",OTC,"$10,001
-- -
-$50,000"
+Gates"        ,OTC                ,"$10,001
+                                   - -
+                                   $50,000"
 "George
 H.
-Heilmeier",OTC,"$10,001
-- -
-$50,000"
+Heilmeier"    ,OTC                ,"$10,001
+                                   - -
+                                   $50,000"
 "Marie L.
-Knowles",OTC,"$10,001
-- -
-$50,000"
+Knowles"      ,OTC                ,"$10,001
+                                   - -
+                                   $50,000"
 "Dennis
-J. Dirks","Real Estate
-Income","$10,001
-- -
-$50,000"
+J. Dirks"     ,"Real Estate
+               Income"            ,"$10,001
+                                   - -
+                                   $50,000"
 "Albert
 R. Gamper,
-Jr.","Real Estate
-Income",none
+Jr."          ,"Real Estate
+               Income"            ,none
 "Robert
 M.
-Gates","Real Estate
-Income",none
+Gates"        ,"Real Estate
+               Income"            ,none
 "George
 H.
-Heilmeier","Real Estate
-Income",none
+Heilmeier"    ,"Real Estate
+               Income"            ,none
 "Marie L.
-Knowles","Real Estate
-Income",none
+Knowles"      ,"Real Estate
+               Income"            ,none
 "Dennis
-J. Dirks","Fidelity Value
-Discovery Fund",none
+J. Dirks"     ,"Fidelity Value
+               Discovery Fund"    ,none
 "Albert
 R. Gamper,
-Jr.","Fidelity Value
-Discovery Fund",none
+Jr."          ,"Fidelity Value
+               Discovery Fund"    ,none
 "Robert
 M.
-Gates","Fidelity Value
-Discovery Fund",none
+Gates"        ,"Fidelity Value
+               Discovery Fund"    ,none
 "George
 H.
-Heilmeier","Fidelity Value
-Discovery Fund",none
+Heilmeier"    ,"Fidelity Value
+               Discovery Fund"    ,none
 "Marie L.
-Knowles","Fidelity Value
-Discovery Fund",none
+Knowles"      ,"Fidelity Value
+               Discovery Fund"    ,none
 "Dennis
-J. Dirks","AGGREGATE
-DOLLAR RANGE OF
-FUND SHARES IN ALL
-FUNDS OVERSEEN
-WITHIN FUND
-FAMILY","over
-$100,000"
+J. Dirks"     ,"AGGREGATE
+               DOLLAR RANGE OF
+               FUND SHARES IN ALL
+               FUNDS OVERSEEN
+               WITHIN FUND
+               FAMILY"            ,"over
+                                   $100,000"
 "Albert
 R. Gamper,
-Jr.","AGGREGATE
-DOLLAR RANGE OF
-FUND SHARES IN ALL
-FUNDS OVERSEEN
-WITHIN FUND
-FAMILY","over
-$100,000"
+Jr."          ,"AGGREGATE
+               DOLLAR RANGE OF
+               FUND SHARES IN ALL
+               FUNDS OVERSEEN
+               WITHIN FUND
+               FAMILY"            ,"over
+                                   $100,000"
 "Robert
 M.
-Gates","AGGREGATE
-DOLLAR RANGE OF
-FUND SHARES IN ALL
-FUNDS OVERSEEN
-WITHIN FUND
-FAMILY","over
-$100,000"
+Gates"        ,"AGGREGATE
+               DOLLAR RANGE OF
+               FUND SHARES IN ALL
+               FUNDS OVERSEEN
+               WITHIN FUND
+               FAMILY"            ,"over
+                                   $100,000"
 "George
 H.
-Heilmeier","AGGREGATE
-DOLLAR RANGE OF
-FUND SHARES IN ALL
-FUNDS OVERSEEN
-WITHIN FUND
-FAMILY","over
-$100,000"
+Heilmeier"    ,"AGGREGATE
+               DOLLAR RANGE OF
+               FUND SHARES IN ALL
+               FUNDS OVERSEEN
+               WITHIN FUND
+               FAMILY"            ,"over
+                                   $100,000"
 "Marie L.
-Knowles","AGGREGATE
-DOLLAR RANGE OF
-FUND SHARES IN ALL
-FUNDS OVERSEEN
-WITHIN FUND
-FAMILY","over
-$100,000"
+Knowles"      ,"AGGREGATE
+               DOLLAR RANGE OF
+               FUND SHARES IN ALL
+               FUNDS OVERSEEN
+               WITHIN FUND
+               FAMILY"            ,"over
+                                   $100,000"
 "Ned C.
-Lautenbach","Growth &
-Income","$10,001
-- -
-$50,000"
+Lautenbach"   ,"Growth &
+               Income"            ,"$10,001
+                                   - -
+                                   $50,000"
 "William
 O.
-McCoy","Growth &
-Income","$50,001
-- -
-$100,000"
+McCoy"        ,"Growth &
+               Income"            ,"$50,001
+                                   - -
+                                   $100,000"
 "Cornelia
 M.
-Small","Growth &
-Income","$1 -
-$10,000"
+Small"        ,"Growth &
+               Income"            ,"$1 -
+                                   $10,000"
 "William
 S.
-Stavropoulos","Growth &
-Income","$10,001
-- -
-$50,000"
+Stavropoulos" ,"Growth &
+               Income"            ,"$10,001
+                                   - -
+                                   $50,000"
 "Kenneth L.
-Wolfe","Growth &
-Income","$1 -
-$10,000"
+Wolfe"        ,"Growth &
+               Income"            ,"$1 -
+                                   $10,000"
 "Ned C.
-Lautenbach","Dividend
-Growth","$10,001
-- -
-$50,000"
+Lautenbach"   ,"Dividend
+               Growth"            ,"$10,001
+                                   - -
+                                   $50,000"
 "William
 O.
-McCoy","Dividend
-Growth","$50,001
-- -
-$100,000"
+McCoy"        ,"Dividend
+               Growth"            ,"$50,001
+                                   - -
+                                   $100,000"
 "Cornelia
 M.
-Small","Dividend
-Growth","$1 -
-$10,000"
+Small"        ,"Dividend
+               Growth"            ,"$1 -
+                                   $10,000"
 "William
 S.
-Stavropoulos","Dividend
-Growth","$10,001
-- -
-$50,000"
+Stavropoulos" ,"Dividend
+               Growth"            ,"$10,001
+                                   - -
+                                   $50,000"
 "Kenneth L.
-Wolfe","Dividend
-Growth","$1 -
-$10,000"
+Wolfe"        ,"Dividend
+               Growth"            ,"$1 -
+                                   $10,000"
 "Ned C.
-Lautenbach","Leveraged Company
-Stock",none
+Lautenbach"   ,"Leveraged Company
+               Stock"             ,none
 "William
 O.
-McCoy","Leveraged Company
-Stock","$10,001
-- -
-$50,000"
+McCoy"        ,"Leveraged Company
+               Stock"             ,"$10,001
+                                   - -
+                                   $50,000"
 "Cornelia
 M.
-Small","Leveraged Company
-Stock","$10,001
-- -
-$50,000"
+Small"        ,"Leveraged Company
+               Stock"             ,"$10,001
+                                   - -
+                                   $50,000"
 "William
 S.
-Stavropoulos","Leveraged Company
-Stock",none
+Stavropoulos" ,"Leveraged Company
+               Stock"             ,none
 "Kenneth L.
-Wolfe","Leveraged Company
-Stock",none
+Wolfe"        ,"Leveraged Company
+               Stock"             ,none
 "Ned C.
-Lautenbach","Low-Priced
-Stock","$50,001
-- -
-$100,000"
+Lautenbach"   ,"Low-Priced
+               Stock"             ,"$50,001
+                                   - -
+                                   $100,000"
 "William
 O.
-McCoy","Low-Priced
-Stock","over
-$100,000"
+McCoy"        ,"Low-Priced
+               Stock"             ,"over
+                                   $100,000"
 "Cornelia
 M.
-Small","Low-Priced
-Stock","$1 -
-$10,000"
+Small"        ,"Low-Priced
+               Stock"             ,"$1 -
+                                   $10,000"
 "William
 S.
-Stavropoulos","Low-Priced
-Stock","$10,001
-- -
-$50,000"
+Stavropoulos" ,"Low-Priced
+               Stock"             ,"$10,001
+                                   - -
+                                   $50,000"
 "Kenneth L.
-Wolfe","Low-Priced
-Stock","$1 -
-$10,000"
+Wolfe"        ,"Low-Priced
+               Stock"             ,"$1 -
+                                   $10,000"
 "Ned C.
-Lautenbach",OTC,"$10,001
-- -
-$50,000"
+Lautenbach"   ,OTC                ,"$10,001
+                                   - -
+                                   $50,000"
 "William
 O.
-McCoy",OTC,"$10,001
-- -
-$50,000"
+McCoy"        ,OTC                ,"$10,001
+                                   - -
+                                   $50,000"
 "Cornelia
 M.
-Small",OTC,"$1 -
-$10,000"
+Small"        ,OTC                ,"$1 -
+                                   $10,000"
 "William
 S.
-Stavropoulos",OTC,"$1 -
-$10,000"
+Stavropoulos" ,OTC                ,"$1 -
+                                   $10,000"
 "Kenneth L.
-Wolfe",OTC,"$1 -
-$10,000"
+Wolfe"        ,OTC                ,"$1 -
+                                   $10,000"
 "Ned C.
-Lautenbach","Real Estate
-Income",none
+Lautenbach"   ,"Real Estate
+               Income"            ,none
 "William
 O.
-McCoy","Real Estate
-Income",none
+McCoy"        ,"Real Estate
+               Income"            ,none
 "Cornelia
 M.
-Small","Real Estate
-Income",none
+Small"        ,"Real Estate
+               Income"            ,none
 "William
 S.
-Stavropoulos","Real Estate
-Income",none
+Stavropoulos" ,"Real Estate
+               Income"            ,none
 "Kenneth L.
-Wolfe","Real Estate
-Income",none
+Wolfe"        ,"Real Estate
+               Income"            ,none
 "Ned C.
-Lautenbach","Fidelity Value
-Discovery Fund",none
+Lautenbach"   ,"Fidelity Value
+               Discovery Fund"    ,none
 "William
 O.
-McCoy","Fidelity Value
-Discovery Fund",none
+McCoy"        ,"Fidelity Value
+               Discovery Fund"    ,none
 "Cornelia
 M.
-Small","Fidelity Value
-Discovery Fund",none
+Small"        ,"Fidelity Value
+               Discovery Fund"    ,none
 "William
 S.
-Stavropoulos","Fidelity Value
-Discovery Fund",none
+Stavropoulos" ,"Fidelity Value
+               Discovery Fund"    ,none
 "Kenneth L.
-Wolfe","Fidelity Value
-Discovery Fund",none
+Wolfe"        ,"Fidelity Value
+               Discovery Fund"    ,none
 "Ned C.
-Lautenbach","AGGREGATE
-DOLLAR RANGE OF
-FUND SHARES IN ALL
-FUNDS OVERSEEN
-WITHIN FUND
-FAMILY","over
-$100,000"
+Lautenbach"   ,"AGGREGATE
+               DOLLAR RANGE OF
+               FUND SHARES IN ALL
+               FUNDS OVERSEEN
+               WITHIN FUND
+               FAMILY"            ,"over
+                                   $100,000"
 "William
 O.
-McCoy","AGGREGATE
-DOLLAR RANGE OF
-FUND SHARES IN ALL
-FUNDS OVERSEEN
-WITHIN FUND
-FAMILY","over
-$100,000"
+McCoy"        ,"AGGREGATE
+               DOLLAR RANGE OF
+               FUND SHARES IN ALL
+               FUNDS OVERSEEN
+               WITHIN FUND
+               FAMILY"            ,"over
+                                   $100,000"
 "Cornelia
 M.
-Small","AGGREGATE
-DOLLAR RANGE OF
-FUND SHARES IN ALL
-FUNDS OVERSEEN
-WITHIN FUND
-FAMILY","over
-$100,000"
+Small"        ,"AGGREGATE
+               DOLLAR RANGE OF
+               FUND SHARES IN ALL
+               FUNDS OVERSEEN
+               WITHIN FUND
+               FAMILY"            ,"over
+                                   $100,000"
 "William
 S.
-Stavropoulos","AGGREGATE
-DOLLAR RANGE OF
-FUND SHARES IN ALL
-FUNDS OVERSEEN
-WITHIN FUND
-FAMILY","over
-$100,000"
+Stavropoulos" ,"AGGREGATE
+               DOLLAR RANGE OF
+               FUND SHARES IN ALL
+               FUNDS OVERSEEN
+               WITHIN FUND
+               FAMILY"            ,"over
+                                   $100,000"
 "Kenneth L.
-Wolfe","AGGREGATE
-DOLLAR RANGE OF
-FUND SHARES IN ALL
-FUNDS OVERSEEN
-WITHIN FUND
-FAMILY","over
-$100,000"
+Wolfe"        ,"AGGREGATE
+               DOLLAR RANGE OF
+               FUND SHARES IN ALL
+               FUNDS OVERSEEN
+               WITHIN FUND
+               FAMILY"            ,"over
+                                   $100,000"
