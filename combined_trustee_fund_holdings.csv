@@ -1,0 +1,487 @@
+Trustee,Parameter,Dollar Range
+"Edward C.
+Johnson 3d","Dividend
+Growth","over
+$100,000"
+"Stephen P.
+Jonas","Dividend
+Growth","over
+$100,000"
+"Robert L.
+Reynolds","Dividend
+Growth","over
+$100,000"
+"Edward C.
+Johnson 3d","Growth &
+Income","over
+$100,000"
+"Stephen P.
+Jonas","Growth &
+Income","over
+$100,000"
+"Robert L.
+Reynolds","Growth &
+Income","over
+$100,000"
+"Edward C.
+Johnson 3d","Leveraged Company
+Stock",none
+"Stephen P.
+Jonas","Leveraged Company
+Stock",none
+"Robert L.
+Reynolds","Leveraged Company
+Stock",none
+"Edward C.
+Johnson 3d","Low-Priced
+Stock","over
+$100,000"
+"Stephen P.
+Jonas","Low-Priced
+Stock","over
+$100,000"
+"Robert L.
+Reynolds","Low-Priced
+Stock","over
+$100,000"
+"Edward C.
+Johnson 3d",OTC,none
+"Stephen P.
+Jonas",OTC,none
+"Robert L.
+Reynolds",OTC,none
+"Edward C.
+Johnson 3d","Real Estate
+Income",none
+"Stephen P.
+Jonas","Real Estate
+Income",none
+"Robert L.
+Reynolds","Real Estate
+Income",none
+"Edward C.
+Johnson 3d","Fidelity Value
+Discovery Fund",none
+"Stephen P.
+Jonas","Fidelity Value
+Discovery Fund",none
+"Robert L.
+Reynolds","Fidelity Value
+Discovery Fund",none
+"Edward C.
+Johnson 3d","AGGREGATE
+DOLLAR RANGE 
+OF FUND SHARES IN
+ALL FUNDS OVERSEEN
+WITHIN FUND
+FAMILY","over
+$100,000"
+"Stephen P.
+Jonas","AGGREGATE
+DOLLAR RANGE 
+OF FUND SHARES IN
+ALL FUNDS OVERSEEN
+WITHIN FUND
+FAMILY","over
+$100,000"
+"Robert L.
+Reynolds","AGGREGATE
+DOLLAR RANGE 
+OF FUND SHARES IN
+ALL FUNDS OVERSEEN
+WITHIN FUND
+FAMILY","over
+$100,000"
+"Dennis
+J. Dirks","Growth &
+Income","$1 -
+$10,000"
+"Albert
+R. Gamper,
+Jr.","Growth &
+Income",none
+"Robert
+M.
+Gates","Growth &
+Income","$50,001
+- -
+$100,000"
+"George
+H.
+Heilmeier","Growth &
+Income","$10,001
+- -
+$50,000"
+"Marie L.
+Knowles","Growth &
+Income","$10,001
+- -
+$50,000"
+"Dennis
+J. Dirks","Dividend
+Growth","$50,001
+- -
+$100,000"
+"Albert
+R. Gamper,
+Jr.","Dividend
+Growth",none
+"Robert
+M.
+Gates","Dividend
+Growth","over
+$100,000"
+"George
+H.
+Heilmeier","Dividend
+Growth","$1 -
+$10,000"
+"Marie L.
+Knowles","Dividend
+Growth","$10,001
+- -
+$50,000"
+"Dennis
+J. Dirks","Leveraged Company
+Stock","$10,001
+- -
+$50,000"
+"Albert
+R. Gamper,
+Jr.","Leveraged Company
+Stock",none
+"Robert
+M.
+Gates","Leveraged Company
+Stock",none
+"George
+H.
+Heilmeier","Leveraged Company
+Stock",none
+"Marie L.
+Knowles","Leveraged Company
+Stock",none
+"Dennis
+J. Dirks","Low-Priced
+Stock","$1 -
+$10,000"
+"Albert
+R. Gamper,
+Jr.","Low-Priced
+Stock",none
+"Robert
+M.
+Gates","Low-Priced
+Stock","$10,001
+- -
+$50,000"
+"George
+H.
+Heilmeier","Low-Priced
+Stock","$10,001
+- -
+$50,000"
+"Marie L.
+Knowles","Low-Priced
+Stock","$10,001
+- -
+$50,000"
+"Dennis
+J. Dirks",OTC,"$1 -
+$10,000"
+"Albert
+R. Gamper,
+Jr.",OTC,none
+"Robert
+M.
+Gates",OTC,"$10,001
+- -
+$50,000"
+"George
+H.
+Heilmeier",OTC,"$10,001
+- -
+$50,000"
+"Marie L.
+Knowles",OTC,"$10,001
+- -
+$50,000"
+"Dennis
+J. Dirks","Real Estate
+Income","$10,001
+- -
+$50,000"
+"Albert
+R. Gamper,
+Jr.","Real Estate
+Income",none
+"Robert
+M.
+Gates","Real Estate
+Income",none
+"George
+H.
+Heilmeier","Real Estate
+Income",none
+"Marie L.
+Knowles","Real Estate
+Income",none
+"Dennis
+J. Dirks","Fidelity Value
+Discovery Fund",none
+"Albert
+R. Gamper,
+Jr.","Fidelity Value
+Discovery Fund",none
+"Robert
+M.
+Gates","Fidelity Value
+Discovery Fund",none
+"George
+H.
+Heilmeier","Fidelity Value
+Discovery Fund",none
+"Marie L.
+Knowles","Fidelity Value
+Discovery Fund",none
+"Dennis
+J. Dirks","AGGREGATE
+DOLLAR RANGE OF
+FUND SHARES IN ALL
+FUNDS OVERSEEN
+WITHIN FUND
+FAMILY","over
+$100,000"
+"Albert
+R. Gamper,
+Jr.","AGGREGATE
+DOLLAR RANGE OF
+FUND SHARES IN ALL
+FUNDS OVERSEEN
+WITHIN FUND
+FAMILY","over
+$100,000"
+"Robert
+M.
+Gates","AGGREGATE
+DOLLAR RANGE OF
+FUND SHARES IN ALL
+FUNDS OVERSEEN
+WITHIN FUND
+FAMILY","over
+$100,000"
+"George
+H.
+Heilmeier","AGGREGATE
+DOLLAR RANGE OF
+FUND SHARES IN ALL
+FUNDS OVERSEEN
+WITHIN FUND
+FAMILY","over
+$100,000"
+"Marie L.
+Knowles","AGGREGATE
+DOLLAR RANGE OF
+FUND SHARES IN ALL
+FUNDS OVERSEEN
+WITHIN FUND
+FAMILY","over
+$100,000"
+"Ned C.
+Lautenbach","Growth &
+Income","$10,001
+- -
+$50,000"
+"William
+O.
+McCoy","Growth &
+Income","$50,001
+- -
+$100,000"
+"Cornelia
+M.
+Small","Growth &
+Income","$1 -
+$10,000"
+"William
+S.
+Stavropoulos","Growth &
+Income","$10,001
+- -
+$50,000"
+"Kenneth L.
+Wolfe","Growth &
+Income","$1 -
+$10,000"
+"Ned C.
+Lautenbach","Dividend
+Growth","$10,001
+- -
+$50,000"
+"William
+O.
+McCoy","Dividend
+Growth","$50,001
+- -
+$100,000"
+"Cornelia
+M.
+Small","Dividend
+Growth","$1 -
+$10,000"
+"William
+S.
+Stavropoulos","Dividend
+Growth","$10,001
+- -
+$50,000"
+"Kenneth L.
+Wolfe","Dividend
+Growth","$1 -
+$10,000"
+"Ned C.
+Lautenbach","Leveraged Company
+Stock",none
+"William
+O.
+McCoy","Leveraged Company
+Stock","$10,001
+- -
+$50,000"
+"Cornelia
+M.
+Small","Leveraged Company
+Stock","$10,001
+- -
+$50,000"
+"William
+S.
+Stavropoulos","Leveraged Company
+Stock",none
+"Kenneth L.
+Wolfe","Leveraged Company
+Stock",none
+"Ned C.
+Lautenbach","Low-Priced
+Stock","$50,001
+- -
+$100,000"
+"William
+O.
+McCoy","Low-Priced
+Stock","over
+$100,000"
+"Cornelia
+M.
+Small","Low-Priced
+Stock","$1 -
+$10,000"
+"William
+S.
+Stavropoulos","Low-Priced
+Stock","$10,001
+- -
+$50,000"
+"Kenneth L.
+Wolfe","Low-Priced
+Stock","$1 -
+$10,000"
+"Ned C.
+Lautenbach",OTC,"$10,001
+- -
+$50,000"
+"William
+O.
+McCoy",OTC,"$10,001
+- -
+$50,000"
+"Cornelia
+M.
+Small",OTC,"$1 -
+$10,000"
+"William
+S.
+Stavropoulos",OTC,"$1 -
+$10,000"
+"Kenneth L.
+Wolfe",OTC,"$1 -
+$10,000"
+"Ned C.
+Lautenbach","Real Estate
+Income",none
+"William
+O.
+McCoy","Real Estate
+Income",none
+"Cornelia
+M.
+Small","Real Estate
+Income",none
+"William
+S.
+Stavropoulos","Real Estate
+Income",none
+"Kenneth L.
+Wolfe","Real Estate
+Income",none
+"Ned C.
+Lautenbach","Fidelity Value
+Discovery Fund",none
+"William
+O.
+McCoy","Fidelity Value
+Discovery Fund",none
+"Cornelia
+M.
+Small","Fidelity Value
+Discovery Fund",none
+"William
+S.
+Stavropoulos","Fidelity Value
+Discovery Fund",none
+"Kenneth L.
+Wolfe","Fidelity Value
+Discovery Fund",none
+"Ned C.
+Lautenbach","AGGREGATE
+DOLLAR RANGE OF
+FUND SHARES IN ALL
+FUNDS OVERSEEN
+WITHIN FUND
+FAMILY","over
+$100,000"
+"William
+O.
+McCoy","AGGREGATE
+DOLLAR RANGE OF
+FUND SHARES IN ALL
+FUNDS OVERSEEN
+WITHIN FUND
+FAMILY","over
+$100,000"
+"Cornelia
+M.
+Small","AGGREGATE
+DOLLAR RANGE OF
+FUND SHARES IN ALL
+FUNDS OVERSEEN
+WITHIN FUND
+FAMILY","over
+$100,000"
+"William
+S.
+Stavropoulos","AGGREGATE
+DOLLAR RANGE OF
+FUND SHARES IN ALL
+FUNDS OVERSEEN
+WITHIN FUND
+FAMILY","over
+$100,000"
+"Kenneth L.
+Wolfe","AGGREGATE
+DOLLAR RANGE OF
+FUND SHARES IN ALL
+FUNDS OVERSEEN
+WITHIN FUND
+FAMILY","over
+$100,000"
